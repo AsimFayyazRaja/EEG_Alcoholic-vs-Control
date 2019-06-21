@@ -1,0 +1,3 @@
+- The code is split into multiple sections
+- Each section handles a specific area
+- The overall results and insights are taken from merging the results from each section
