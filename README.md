@@ -2,7 +2,8 @@
 Alcoholic vs Control classification using EEG signals
 
 ## Paper acceptance
-Paper is accpeted at WSPML in Bangkok happening at 12-14 December 2019. 
+Paper was presented in [WSPML 2019](http://www.wspml.org/2019.html) in Bangkok. Best student paper award was given to this paper.
+
 
 ## Task formulation
 Using machine and deep learning technologies, the task is to classify EEG samples between alcoholic or control people
